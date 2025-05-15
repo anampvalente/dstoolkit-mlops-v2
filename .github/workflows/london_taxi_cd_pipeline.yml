@@ -1,5 +1,6 @@
 name: London Taxi CD Workflow
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
