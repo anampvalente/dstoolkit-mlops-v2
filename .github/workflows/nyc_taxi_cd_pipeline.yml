@@ -1,4 +1,4 @@
-# Continuous integration (cd) for nyc taxi model 
+# Continuous deployment (cd) for nyc taxi model 
 name: Nyc Taxi CD Workflow
 on:
   push:
